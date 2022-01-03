@@ -1,7 +1,7 @@
 https://diegoroney.github.io/Diego/index.html
 
 
-## Olá! Sou @DiegoRoney. atualmente estou estudando JavaScript
+## Olá! Sou @DiegoRoney. Atualmente estou estudando JavaScript
 <div align="center">
   <a href="https://github.com/DiegoRoney">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoRoney&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
