@@ -21,10 +21,10 @@ https://diegoroney.github.io/portfolio/
   <a href="https://www.instagram.com/rbs_diego/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/diego-roney/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-
+<!---
  [![github DiegoRoney](https://img.shields.io/github/followers/DiegoRoney?style=for-the-badge&color=gray)](https://github.com/DiegoRoney)&nbsp;
 ![github DiegoRoney](https://komarev.com/ghpvc/?username=DiegoRoney&style=for-the-badge&label=PROFILE+VIEWS&color=gray)&nbsp;
- 
+ --->
 </div>
 
 
