@@ -20,7 +20,7 @@ https://diegoroney.github.io/portfolio/
  
   <a href="https://www.instagram.com/rbs_diego/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 
- # Destaque
+ # Destaques
   
   - Cafeteria - [CAFETERIA](https://diegoroney.github.io/portfolio/ "CAFETERIA")
   - Portfólio - [PORTFÓLIO](https://diegoroney.github.io/portfolio/ "PORTFÓLIO")
