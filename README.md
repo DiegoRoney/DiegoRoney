@@ -22,7 +22,7 @@ https://diegoroney.github.io/portfolio/
 
  # Destaques
   
-  - Cafeteria - [CAFETERIA](https://diegoroney.github.io/portfolio/ "CAFETERIA")
+  - Cafeteria - [CAFETERIA](https://diegoroney.github.io/cafeteria/ "CAFETERIA")
   - Portfólio - [PORTFÓLIO](https://diegoroney.github.io/portfolio/ "PORTFÓLIO")
   - Agricultura familiar - [CITRUS](https://diegoroney.github.io/newcitrus/ "CITRUS")
   - Gerador de Qr Code - [QR CODE](https://diegoroney.github.io/qrcode/ "QR CODE")
