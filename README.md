@@ -29,4 +29,4 @@ https://diegoroney.github.io/portfolio/
   - Spotify Clone - [SPOTIFY CLONE](https://diegoroney.github.io/spotify-clone/ "SPOTIFY CLONE")
   - E-Sports - [SKRILLEX](https://diegoroney.github.io/skrillex/ "SKRILLEX")
   - Drone X - [DRONE X](https://diegoroney.github.io/new-dronex/ "DRONE X")
-  - Educacional - [ENCINO COMPUTAÇÃO](https://diegoroney.github.io/cartilha-comput-page/ "ENSINO COMPUTAÇÃO") 
+  - Educacional - [ENSINO COMPUTAÇÃO](https://diegoroney.github.io/cartilha-comput-page/ "ENSINO COMPUTAÇÃO") 
