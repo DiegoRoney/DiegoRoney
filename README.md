@@ -19,18 +19,14 @@ https://diegoroney.github.io/portfolio/
 <div> 
  
   <a href="https://www.instagram.com/rbs_diego/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <!---
-  <a href="https://www.linkedin.com/in/diego-roney/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- --->
-<!---
- [![github DiegoRoney](https://img.shields.io/github/followers/DiegoRoney?style=for-the-badge&color=gray)](https://github.com/DiegoRoney)&nbsp;
-![github DiegoRoney](https://komarev.com/ghpvc/?username=DiegoRoney&style=for-the-badge&label=PROFILE+VIEWS&color=gray)&nbsp;
- --->
-</div>
 
-
-
-<!---
-DiegoRoney/DiegoRoney is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ # Destaque
+  
+  - Cafeteria - [CAFETERIA](https://diegoroney.github.io/portfolio/ "CAFETERIA")
+  - Portfólio - [PORTFÓLIO](https://diegoroney.github.io/portfolio/ "PORTFÓLIO")
+  - Agricultura familiar - [CITRUS](https://diegoroney.github.io/newcitrus/ "CITRUS")
+  - Gerador de Qr Code - [QR CODE](https://diegoroney.github.io/qrcode/ "QR CODE")
+  - Spotify Clone - [SPOTIFY CLONE](https://diegoroney.github.io/spotify-clone/ "SPOTIFY CLONE")
+  - E-Sports - [SKRILLEX](https://diegoroney.github.io/skrillex/ "SKRILLEX")
+  - Drone X - [DRONE X](https://diegoroney.github.io/new-dronex/ "DRONE X")
+  - Educacional - [ENCINO COMPUTAÇÃO](https://diegoroney.github.io/cartilha-comput-page/ "ENSINO COMPUTAÇÃO") 
