@@ -28,7 +28,7 @@ https://diegoroney.github.io/portfolio/
 
   - Agricultura familiar - [CITRUS](https://diegoroney.github.io/newcitrus/ "CITRUS")
 
-  - Gerador de Qr Code - [html/css/js](https://diegoroney.github.io/qrcode/ "QR CODE") [React](https://diegoroney.github.io/qrcode-react/ "QR CODE")
+  - Gerador de Qr Code - [html/css/js](https://diegoroney.github.io/qrcode/ "QR CODE") / [React](https://diegoroney.github.io/qrcode-react/ "QR CODE")
   
 
   - Spotify Clone - [SPOTIFY CLONE](https://diegoroney.github.io/spotify-clone/ "SPOTIFY CLONE")
