@@ -23,10 +23,19 @@ https://diegoroney.github.io/portfolio/
  # Destaques
   
   - Cafeteria - [CAFETERIA](https://diegoroney.github.io/cafeteria/ "CAFETERIA")
+
   - Portfólio - [PORTFÓLIO](https://diegoroney.github.io/portfolio/ "PORTFÓLIO")
+
   - Agricultura familiar - [CITRUS](https://diegoroney.github.io/newcitrus/ "CITRUS")
-  - Gerador de Qr Code - [QR CODE](https://diegoroney.github.io/qrcode/ "QR CODE")
+
+  - Gerador de Qr Code - [html/css/js](https://diegoroney.github.io/qrcode/ "QR CODE") [React](https://diegoroney.github.io/qrcode-react/ "QR CODE")
+  
+
   - Spotify Clone - [SPOTIFY CLONE](https://diegoroney.github.io/spotify-clone/ "SPOTIFY CLONE")
+
   - E-Sports - [SKRILLEX](https://diegoroney.github.io/skrillex/ "SKRILLEX")
+
   - Drone X - [DRONE X](https://diegoroney.github.io/new-dronex/ "DRONE X")
+
   - Educacional - [ENSINO COMPUTAÇÃO](https://diegoroney.github.io/cartilha-comput-page/ "ENSINO COMPUTAÇÃO") 
+
