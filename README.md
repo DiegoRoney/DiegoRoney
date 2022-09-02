@@ -22,20 +22,20 @@ https://diegoroney.github.io/portfolio/
 
  # Destaques
   
-  - Cafeteria - [CAFETERIA](https://diegoroney.github.io/cafeteria/ "CAFETERIA")
+  - ☕ [Time to Coffee](https://diegoroney.github.io/cafeteria/ "CAFETERIA") Cafeteria 
 
-  - Portfólio - [PORTFÓLIO](https://diegoroney.github.io/portfolio/ "PORTFÓLIO")
+  - 👨🏻‍💻 [Portfólio](https://diegoroney.github.io/portfolio/ "PORTFÓLIO")Portfólio 
 
-  - Agricultura familiar - [CITRUS](https://diegoroney.github.io/newcitrus/ "CITRUS")
+  - 🍊 [Citru's](https://diegoroney.github.io/newcitrus/ "CITRUS") Agricultura familiar
 
-  - Gerador de Qr Code - [html/css/js](https://diegoroney.github.io/qrcode/ "QR CODE") / [React](https://diegoroney.github.io/qrcode-react/ "QR CODE")
+  - 📱 Qr Code  em [html/css/js](https://diegoroney.github.io/qrcode/ "QR CODE") ou [React](https://diegoroney.github.io/qrcode-react/ "QR CODE") Gerador de Qr Code - 
   
 
-  - Spotify Clone - [SPOTIFY CLONE](https://diegoroney.github.io/spotify-clone/ "SPOTIFY CLONE")
+  - 🎶 [Spoty Clone](https://diegoroney.github.io/spotify-clone/ "SPOTIFY CLONE") Spotify Clone 
 
-  - E-Sports - [SKRILLEX](https://diegoroney.github.io/skrillex/ "SKRILLEX")
+  - 🎮 [Skrillex](https://diegoroney.github.io/skrillex/ "SKRILLEX") E-Sports 
 
-  - Drone X - [DRONE X](https://diegoroney.github.io/new-dronex/ "DRONE X")
+  - 🛩️ [Drone X](https://diegoroney.github.io/new-dronex/ "DRONE X") Drone X
 
-  - Educacional - [ENSINO COMPUTAÇÃO](https://diegoroney.github.io/cartilha-comput-page/ "ENSINO COMPUTAÇÃO") 
+  - 👨‍🔬 [Ensino de Computação](https://diegoroney.github.io/cartilha-comput-page/ "ENSINO COMPUTAÇÃO") Educacional  
 
