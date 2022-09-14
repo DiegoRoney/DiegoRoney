@@ -37,5 +37,8 @@ https://diegoroney.github.io/portfolio/
 
   - 🛩️ [Drone X](https://diegoroney.github.io/new-dronex/ "DRONE X") Drone X
 
-  - 👨‍🔬 [Ensino de Computação](https://diegoroney.github.io/cartilha-comput-page/ "ENSINO COMPUTAÇÃO") Educacional  
+  - 👨‍🔬 [Ensino de Computação](https://diegoroney.github.io/cartilha-comput-page/ "ENSINO COMPUTAÇÃO") Educacional 
+  
+  - 🦸🏻‍♂️ [Link para Portfólio](https://diegoroney.github.io/hero/ "ENSINO COMPUTAÇÃO") "Hero page"
+  
 
