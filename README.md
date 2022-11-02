@@ -6,6 +6,12 @@ https://diegoroney.github.io/portfolio/
   <a href="https://www.instagram.com/rbs_diego/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 
  # Destaques
+ 
+  - 🖌️ [Design Portfólio](https://diegoroney.github.io/design/ "Design Portfólio") Desing
+ 
+  - 📒 [Blog](https://blog-diegoroney.vercel.app/ "Blog") Blog 
+  
+  - 🌱 [Free Seeds](https://diegoroney.github.io/freeseeds/ "CAFETERIA") Compartilhe o futuro   
   
   - ☕ [Time to Coffee](https://diegoroney.github.io/cafeteria/ "CAFETERIA") Cafeteria 
 
